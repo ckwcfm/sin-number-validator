@@ -4,7 +4,9 @@ function App() {
     <>
       <div className='flex flex-col w-screen h-screen'>
         <div className='flex flex-col w-full h-full items-center justify-center gap-2'>
-          <div className='text-3xl font-bold'>SIN Number Validator</div>
+          <div className='text-3xl font-bold'>
+            Welcome to SIN Number Validator
+          </div>
           <div className='flex flex-col gap-2 justify-stretch bg-slate-100 p-4 rounded'>
             <div className='flex flex-col gap-2 bg-slate-50 p-4 rounded'>
               <div className='text-lg'>
